@@ -13,7 +13,6 @@ and RTSP protocol on Linux.
 | OS | Linux (Ubuntu) |
 | GStreamer | 1.22.5 |
 | Camera | Dahua CCTV |
-| Camera IP | 192.168.0.220 |
 | RTSP Port | 554 |
 
 ## Why GStreamer?
